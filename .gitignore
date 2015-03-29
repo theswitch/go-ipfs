@@ -8,4 +8,4 @@
 *.test
 *.orig
 *~
-.go-ipfs
+.ipfs
